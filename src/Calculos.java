@@ -200,7 +200,7 @@ public class Calculos {
                 XPF	CFP Franc	                        Collectivités d'Outre-Mer
                 YER	Yemeni Rial                     	Yemen
                 ZAR	South African Rand	                South Africa
-                ZMW	Zambian Kwacha	                    Zambi
+                ZMW	Zambian Kwacha	                    Zambia
                 ZWL	Zimbabwean Dollar	                Zimbabwe
                 """;
         System.out.println(menuOtrasOpciones);
